@@ -22,4 +22,4 @@ Important links
 > ![Figma Tutorial](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-tutorial-4-parts-)
 
 ## Sample Design
-![Figma Sample Design](https://ibb.co/R3RTXyh)
+![Figma Sample Design](./_readme/figma-design-template.png)
